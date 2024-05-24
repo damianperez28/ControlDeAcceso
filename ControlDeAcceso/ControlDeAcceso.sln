@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinamar", "Pinamar\Pinamar.csproj", "{0A196943-5DED-46D5-81D8-76B81CD7B96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A196943-5DED-46D5-81D8-76B81CD7B96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A196943-5DED-46D5-81D8-76B81CD7B96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A196943-5DED-46D5-81D8-76B81CD7B96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A196943-5DED-46D5-81D8-76B81CD7B96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5D5DE7-8DDC-4220-A93A-2843849503C6}
+	EndGlobalSection
+EndGlobal

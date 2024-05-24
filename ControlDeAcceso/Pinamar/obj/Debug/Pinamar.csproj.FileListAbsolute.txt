@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\bin\Debug\Pinamar.exe.config
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\bin\Debug\Pinamar.exe
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\bin\Debug\Pinamar.pdb
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\obj\Debug\Pinamar.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\obj\Debug\Pinamar.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\obj\Debug\Pinamar.exe
+C:\Users\Alumno\source\repos\ControlDeAcceso\Pinamar\obj\Debug\Pinamar.pdb
